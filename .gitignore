@@ -1,0 +1,15 @@
+## Erlang gitignore
+.eunit
+deps
+out
+*.o
+*.beam
+*.plt
+erl_crash.dump
+
+## Project files
+*.sublime-*
+.idea
+
+## MySQL Workbench ERR-model backup
+*.bak
